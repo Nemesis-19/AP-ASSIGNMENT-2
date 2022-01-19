@@ -20,6 +20,7 @@ a) Instructors:
   7) View assesments
   8) Add comments
   9) Logout
+  
 b) Students:
   1) View lecture materials
   2) View assesments
