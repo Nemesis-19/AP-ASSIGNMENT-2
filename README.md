@@ -10,6 +10,7 @@ The principles of INHERITANCE of Classes and appropriate Data Structures for the
 in JAVA.
 
 The output is menu based and the program can perform the following functions:
+
 a) Instructors:
   1) Add class material
   2) Add assesments
